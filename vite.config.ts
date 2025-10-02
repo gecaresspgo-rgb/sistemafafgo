@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 export default defineConfig({
   // Garanta que esta linha está correta
-  base: '/ProjetoProcessos/', 
+  base: '/sistemafafgo/', 
   plugins: [
     vue(),
     vueDevTools(),
